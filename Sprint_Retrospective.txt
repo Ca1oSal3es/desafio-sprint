@@ -1,0 +1,16 @@
+Sprint Retrospective | Sprint #1
+Data: Vinte e um de Julho de 2025
+Facilitador: Caio Rocha Sales (Aluno)
+
+
+1.Oq funcionou bem 
+
+o fato de aprender fazer um Backup dos arquivos e aprender a usar o GIt
+
+2. Oq não funcionou bem
+
+ Achei o Git muito difícil de usar
+
+
+3. Oq deve ser melhorado
+ Mostrar mais pratica para poder fixar mais.
